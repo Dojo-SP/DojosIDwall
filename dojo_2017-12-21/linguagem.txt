@@ -1,0 +1,6 @@
+Python       -
+JavaScript   -
+C#           -
+C            -
+Shell Script -
+Haskell      - Todo mundo quis aproveitar para aprender Haskell!
