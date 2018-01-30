@@ -1,0 +1,12 @@
+Quadrados e Círculos
+====================
+
+http://dojopuzzles.com/problemas/exibe/quadrados-e-circulos/
+
+Imagine que você possui um quadrado e um círculo em um plano. Eles podem ser tangentes entre si, um pode estar dentro do outro, ou podem se sobrepor apenas parcialmente.
+
+Sua tarefa é desenvolver um programa que, dado as coordenadas cartesianas de um quadrado e de um círculo, determine qual a área comum às duas figuras.
+
+Definimos um círculo a partir do seu raio R e das coordenadas cartesianas do centro (X, Y).
+
+Definimos um quadrado a partir das coordenadas cartesianas do seu vértice superior esquerdo (X, Y) e do tamanho do seu lado L.
