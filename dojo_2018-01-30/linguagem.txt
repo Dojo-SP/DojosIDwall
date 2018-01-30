@@ -1,0 +1,7 @@
+C           _ 1
+JavaScript  _ 4
+Java        _ 0
+Haskell     _ 0
+C#          _ 1
+Python      _ 6
+Bash script _ 5
